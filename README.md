@@ -8,7 +8,9 @@ I've been learning to code for 4 years, after switching carrer. I started with .
 
 *   ✉️  You can contact me at [khossdev@gmail.com](mailto:khossdev@gmail.com)
 *   🧠  I'm learning Jetpack Compose
-*   ⚡  I like to play Video Games<a href="https://www.twitter.com/khossdev" target="_blank" rel="noreferrer"><img
+*   ⚡  I like to play Video Games
+
+<a href="https://www.twitter.com/khossdev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/khossdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills<p align="left">
                                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
